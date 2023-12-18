@@ -3,42 +3,46 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan berpikir dan pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:
 
-Pemecahan Masalah:
+1.Pemecahan Masalah
 
 Deskripsi masalah: Kemampuan untuk merinci masalah secara jelas dan memahami permasalahan secara mendalam sebelum mencari solusi.
 Pemodelan masalah: Kemampuan untuk merepresentasikan masalah dalam bentuk yang dapat diolah oleh komputer, seperti algoritma atau model matematis.
 
-Abstraksi:
+2.Abstraksi
 Mengabstraksi informasi: Kemampuan untuk menyederhanakan kompleksitas dengan mengidentifikasi pola, merinci informasi yang relevan, dan mengabaikan detail yang tidak penting.
 Generalisasi: Kemampuan untuk menerapkan konsep abstrak pada berbagai situasi.
 
-Algoritma dan Desain:
+3.Algoritma dan Desain
 Pengembangan algoritma: Kemampuan untuk merancang langkah-langkah sistematis untuk memecahkan masalah atau mengeksekusi tugas tertentu.
 Optimisasi: Kemampuan untuk meningkatkan efisiensi algoritma dan solusi.
 
-Pemahaman Data:
+4.Pemahaman Data
 Pengorganisasian data: Kemampuan untuk mengelompokkan, menyusun, dan mengelola data sehingga dapat diolah secara efektif.
 Analisis data: Kemampuan untuk menarik kesimpulan dan membuat keputusan berdasarkan pemahaman data.
 
-Pikiran Kritis:
+5.Pikiran Kritis
 Analisis logis: Kemampuan untuk mengevaluasi logika dan kesalahan dalam pemikiran atau solusi.
 Pertimbangan konsekuensi: Kemampuan untuk memikirkan implikasi dari suatu tindakan atau solusi.
 
-Kolaborasi dan Komunikasi:
+6.Kolaborasi dan Komunikasi
 Kemampuan berkolaborasi: Pemahaman tentang bagaimana berkolaborasi dengan orang lain untuk mencapai tujuan bersama, termasuk pembagian tugas dan komunikasi efektif.
 Kemampuan menyampaikan ide: Kemampuan untuk mengomunikasikan gagasan dan solusi secara jelas dan efektif kepada orang lain.
 
 Menginternalisasi Computational Thinking melibatkan integrasi konsep-konsep ini ke dalam cara berpikir dan bekerja sehari-hari. Ini dapat diterapkan dalam berbagai konteks, tidak hanya dalam pemrograman atau pengembangan perangkat lunak, tetapi juga dalam kehidupan sehari-hari, pendidikan, dan berbagai bidang profesional. Seseorang yang menginternalisasi Computational Thinking akan cenderung lebih terampil dalam memecahkan masalah, berpikir kritis, dan menghadapi tantangan dengan pendekatan yang sistematis.
 
-
-
-
-
-
-
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi adalah perangkat yang dirancang untuk melakukan operasi pengolahan data dan informasi. Jenis-jenis mesin komputasi dapat dibagi berdasarkan beberapa kriteria, termasuk ukuran, tujuan, dan arsitektur. Ada beberapa jenis mesin komputasi yang umum:
 
+Mainframe:
+Mainframe adalah mesin komputasi besar yang dirancang untuk menangani volume transaksi yang tinggi dan memproses data bisnis. Digunakan dalam bisnis dan industri untuk pemrosesan transaksi keuangan, manajemen data pelanggan, dan aplikasi bisnis skala besar.
+
+Komputer Pribadi (Personal Computer/PC):
+Mesin komputasi yang dirancang untuk digunakan oleh satu orang. Digunakan untuk keperluan pribadi, pekerjaan kantor, dan hiburan.
+
+Komputer Tablet:
+Perangkat portabel dengan layar sentuh yang dapat digunakan untuk berbagai keperluan.Digunakan untuk Navigasi internet, hiburan, dan aplikasi produktivitas ringan.
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
 
 ## Mencoba Console Sistem Operasi
 

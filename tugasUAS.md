@@ -41,10 +41,13 @@ Mesin komputasi yang dirancang untuk digunakan oleh satu orang. Digunakan untuk 
 
 Komputer Tablet:
 Perangkat portabel dengan layar sentuh yang dapat digunakan untuk berbagai keperluan.Digunakan untuk Navigasi internet, hiburan, dan aplikasi produktivitas ringan.
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![Screenshot (22)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ff817e66-0a3c-4271-bc98-1060c0af92f6)
 
 
 ## Mencoba Console Sistem Operasi
+
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
@@ -63,6 +66,14 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+IDE adalah sebuah perangkat lunak yang menyediakan berbagai alat dan fitur untuk membantu pengembang perangkat lunak dalam proses pembuatan, pengujian, dan debugging program komputer.  IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
+ - Visual Studio dari Microsoft
+ - Android Studio (dalam pengembangan aplikasi mobile)
+ - Visual Studio Code sebagai text editor
+
+- pemanfaatan IDE dalam Android Studio untuk membuat emulator mobile android 
+![Screenshot (23)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0c337a00-e8b7-4961-99ca-67be53d75a65)
+
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 

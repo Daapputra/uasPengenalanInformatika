@@ -166,6 +166,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Profesi yang saya minati di bidang Informatika yaitu :
+- Data Analyst
+- CyberSecurity Engineer
+- Database Specialist
+- UI UX Designer specialist
+- Business Analyst
+
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing seperti Inggris,Jerman,Prancis,Jepang,dan lain sebagainya
@@ -187,6 +194,7 @@ Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing s
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Daapputra
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 - Mengikuti Zoom Meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing

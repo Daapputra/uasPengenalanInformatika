@@ -168,6 +168,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing seperti Inggris,Jerman,Prancis,Jepang,dan lain sebagainya
+![Screenshot (24)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/74064ae7-344f-487f-9bc9-0e32568b3507)
+- saat mencoba latihan bahasa Inggris
+![Screenshot (25)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9e6195d0-3b35-40a9-abdb-e02de080562f)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -184,6 +189,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+- Mengikuti Zoom Meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing
+- Mengikuti GDSC Study Club
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 

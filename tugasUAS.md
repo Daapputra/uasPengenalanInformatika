@@ -1,7 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan berpikir dan pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:
+Computational Thinking (Pemikiran Komputasional) yaitu berpikir tentang pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:
 
 1.Pemecahan Masalah
 Kemampuan untuk merinci masalah secara jelas dan memahami permasalahan secara mendalam sebelum mencari solusi.

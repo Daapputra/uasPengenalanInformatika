@@ -4,9 +4,8 @@
 Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan berpikir dan pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:
 
 1.Pemecahan Masalah
-
-Deskripsi masalah: Kemampuan untuk merinci masalah secara jelas dan memahami permasalahan secara mendalam sebelum mencari solusi.
-Pemodelan masalah: Kemampuan untuk merepresentasikan masalah dalam bentuk yang dapat diolah oleh komputer, seperti algoritma atau model matematis.
+Kemampuan untuk merinci masalah secara jelas dan memahami permasalahan secara mendalam sebelum mencari solusi.
+Kemampuan untuk merepresentasikan masalah dalam bentuk yang dapat diolah oleh komputer, seperti algoritma atau model matematis.
 
 2.Abstraksi
 Mengabstraksi informasi: Kemampuan untuk menyederhanakan kompleksitas dengan mengidentifikasi pola, merinci informasi yang relevan, dan mengabaikan detail yang tidak penting.
@@ -71,11 +70,28 @@ IDE adalah sebuah perangkat lunak yang menyediakan berbagai alat dan fitur untuk
  - Android Studio (dalam pengembangan aplikasi mobile)
  - Visual Studio Code sebagai text editor
 
-- pemanfaatan IDE dalam Android Studio untuk membuat emulator mobile android 
+- Pemanfaatan IDE dalam Android Studio untuk membuat emulator mobile android, disini saya hanya baru mencoba sampai sini karena saat mencoba untuk di run, terdapat kendala yaitu sangat lamanya saat proses running karena laptop kurang memadai. 
 ![Screenshot (23)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0c337a00-e8b7-4961-99ca-67be53d75a65)
 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+Akun HackerRank saya:
+https://www.hackerrank.com/profile/muhammadnurdaff1
+
+HackerRank adalah platform pembelajaran daring yang menyediakan berbagai tantangan pemrograman dan kursus untuk memperdalam keterampilan pemrograman. Tujuan utamanya adalah membantu orang mengembangkan keterampilan pemrograman 
+
+Demonstrasi penggunaan HackerRank:
+- Mendaftar : Buka situs web HackerRank di https://www.hackerrank.com/.
+  Setelah mendaftar memasukkan akun Hackerrank.
+- Mencoba konten Konten: Jelajahi tantangan pemrograman, kursus, dan sertifikasi yang tersedia di Hackerrank.
+- Pilih Tantangan: Pilih tantangan pemrograman yang sesuai dengan tingkat kemampuan kita.
+- Kerjakan Tantangan: Kerjakan tantangan tersebut dengan menulis solusi kode. HackerRank akan mengevaluasi solusi untuk bisa memecahkan tantangan tersebut.
+
+- Mencoba menyelesaikan soal tantangan preparation java
+![Screenshot (27)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b382f03c-f25f-4501-9f93-16c732252ff2)
+- Tantangan soal selanjutnya, jadi semakin kita dapat banyak menyelesaikan soal di Hackerrank maka tingkat tantangannya pun akan semakin bertambah 
+![Screenshot (29)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/c30b15b4-0ec6-43c9-a242-9620d358fefd)
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 

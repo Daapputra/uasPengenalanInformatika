@@ -1,4 +1,4 @@
-![Screenshot (34)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/57d87cd0-55cd-4197-b15b-fa025fdc0107)# Hello Informatics !
+# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan berpikir dan pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:

@@ -168,9 +168,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Hugging Face adalah platform dan komunitas yang fokus pada pemrosesan bahasa alami (NLP) dan pemelajaran mendalam (deep learning). Hugging Face menyediakan sumber daya dan alat untuk mempermudah pengembangan, pengujian, dan implementasi model NLP. 
 
--Mencoba mendaftar dan eksplorasi
+- Mencoba mendaftar dan eksplorasi
 ![Screenshot (34)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/f21884ae-c91d-458b-b539-c1b5b928be22)
--Terdapat berbagai macam libraries
+- Terdapat berbagai macam libraries
 ![Screenshot (35)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e6af6746-5924-4cca-b529-b21b79ee5588)
 
 

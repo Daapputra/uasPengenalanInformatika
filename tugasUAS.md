@@ -1,4 +1,4 @@
-# Hello Informatics !
+![Screenshot (34)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/57d87cd0-55cd-4197-b15b-fa025fdc0107)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking (Pemikiran Komputasional) adalah suatu pendekatan berpikir dan pemecahan masalah yang terinspirasi oleh cara komputer memproses informasi. Menginternalisasi Computational Thinking berarti mengadopsi dan menyatukan konsep-konsep dasar yang mendasari pemikiran komputasional ke dalam pola pikir dan pendekatan kita terhadap pemecahan masalah sehari-hari. Ada beberapa aspek kunci dari Computational Thinking:
@@ -166,10 +166,36 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Hugging Face adalah platform dan komunitas yang fokus pada pemrosesan bahasa alami (NLP) dan pemelajaran mendalam (deep learning). Hugging Face menyediakan sumber daya dan alat untuk mempermudah pengembangan, pengujian, dan implementasi model NLP. 
+
+-Mencoba mendaftar dan eksplorasi
+![Screenshot (34)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/f21884ae-c91d-458b-b539-c1b5b928be22)
+-Terdapat berbagai macam libraries
+![Screenshot (35)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e6af6746-5924-4cca-b529-b21b79ee5588)
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan data scientist lain, mempelajari informasi baru dan trik coding, serta melihat berbagai contoh aplikasi data science di dunia nyata.
+
+- Login akun kaggle dan mencoba ada apa saja di Kaggle itu
+![Screenshot (33)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e0073e29-0d66-42f1-9d0b-10b0f9e1f216)
+- Daftar percobaan dan competition Kaggle
+![Screenshot (31)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b2a91487-a09d-4ef6-bd48-fc1d7c7a9229)
+- Mencoba notebook dan menggunakan pyhton dasar
+![Screenshot (32)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/7dca802a-0378-4d18-8de6-b8640014a310)
+
+ 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+MQTT, yang merupakan singkatan dari Message Queuing Telemetry Transport, adalah protokol komunikasi ringan yang dirancang khusus untuk digunakan dalam konteks Internet of Things (IoT). Protokol ini sangat efisien dalam mentransfer data antar perangkat yang terhubung ke jaringan, termasuk perangkat IoT. Perangkat IoT dapat berperan sebagai pengirim atau penerima pesan. Mereka dapat mempublikasikan pesan ke topik tertentu atau berlangganan ke topik untuk menerima pesan. Protokol ini dirancang untuk efisiensi, dan keamanan dalam komunikasi antarperangkat IoT. Jadi, secara umum, MyMQTT memfasilitasi pertukaran data yang efisien antarperangkat IoT melalui model publish-subscribe, di mana perangkat dapat mengirim dan menerima pesan pada topik-topik tertentu.
+
+-![WhatsApp Image 2023-12-19 at 20 25 03_eca0f9c2](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/4333c748-9e41-4741-810e-d6f5b37ff944)
+-![WhatsApp Image 2023-12-19 at 20 25 05_38e3560f](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2d07b5de-ed67-402c-abec-4433538d6bc8)
+-![WhatsApp Image 2023-12-19 at 20 25 05_bec05809](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/87d6127b-f41c-4008-9269-54ef9f053e3e)
+
+
+
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 

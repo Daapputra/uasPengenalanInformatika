@@ -78,19 +78,17 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 
 
-
-
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![image](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0a62123e-b9cb-45ed-9878-6e42ae77a7f5)
 
 - Ini adalah hasil dari bentuk flowchart di atas
+
 ```mermaid
 flowchart TD
     A[Mobile : Godot Engine] <-->   B[Game Server : JavaScript] 
     B <--> C[Database : MySQL]
 
 ```
-
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐

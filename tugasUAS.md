@@ -76,6 +76,10 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+
+
+
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ```mermaid
 flowchart TD
@@ -83,9 +87,9 @@ flowchart TD
     B <--> C[Database : MySQL]
 
 ```
-- Ini adalah hasil dari bentuk flowchart di atas
-![Screenshot (61)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ae4f2e78-433c-4e13-814a-b7b4178a3434)
 
+- Ini adalah hasil dari bentuk flowchart di atas
+![image](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0a62123e-b9cb-45ed-9878-6e42ae77a7f5)
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 

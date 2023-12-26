@@ -345,6 +345,13 @@ Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing s
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Linkedin profile saya dan ini adalah link nya https://www.linkedin.com/in/muhammad-nur-daffa-6867762a6/
+- Microsoft
+- MySkill
+- Dicoding Indonesia
+- Telkomsel
+- BUMN
+- Adobe
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/Daapputra
@@ -354,6 +361,26 @@ https://github.com/Daapputra
 - Mengikuti GDSC Study Club
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+Buku bertemakan Informatika yang saya ambil berjudul "The Pragmatic Programmer: Your Journey to Mastery" oleh Dave Thomas dan Andy Hunt, alasan saya memilih buku ini karena Buku ini memberikan wawasan praktis dan saran yang relevan untuk pengembang perangkat lunak, termasuk pemula dan mahasiswa. Kemudian ini adalah beberapa alasan mengapa buku ini bisa cocok untuk mahasiswa:
+
+Orientasi pada Keterampilan Umum:
+
+Buku ini membahas keterampilan dasar dalam pemrograman dan pengembangan perangkat lunak. Ini bisa menjadi panduan yang baik bagi mahasiswa untuk memahami dan mengasah keterampilan dasar mereka.
+Pola Desain dan Prinsip Perancangan:
+
+Memberikan pemahaman tentang pola desain dan prinsip perancangan yang penting dalam pengembangan perangkat lunak. Hal ini sangat bermanfaat bagi mahasiswa yang ingin membangun pemahaman mendalam tentang desain perangkat lunak.
+Manajemen Proyek dan Produktivitas:
+
+Buku ini membahas manajemen proyek yang efektif dan strategi produktivitas. Mahasiswa dapat mengambil wawasan ini untuk membantu mereka dalam proyek-proyek kuliah atau proyek pengembangan perangkat lunak lainnya.
+Pemikiran Kritis dan Problem Solving:
+
+Mendorong mahasiswa untuk mengembangkan pemikiran kritis dan kemampuan pemecahan masalah. Ini adalah keterampilan penting dalam dunia pengembangan perangkat lunak.
+Pembelajaran Seumur Hidup:
+
+Mengajak mahasiswa untuk memiliki sikap pembelajaran seumur hidup, yang penting dalam dunia teknologi yang terus berkembang pesat.
+Ditulis dengan Gaya yang Mudah Dipahami:
+
+Gaya penulisan buku ini cukup mudah dipahami, membuatnya cocok untuk mahasiswa yang sedang belajar dan ingin mendapatkan pandangan praktis tentang pengembangan perangkat lunak.
 
 
 

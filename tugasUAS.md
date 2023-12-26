@@ -241,6 +241,103 @@ flowchart TD
     B <--> C[Database : MySQL]
 
 ```
+ 
+ - Ini adalah pengunaan flowchart pada tugas UTS
+   ```mermaid
+
+erDiagram 
+    Player{
+        int player_id
+        int character_id 
+    }
+    
+
+    Player ||--|{ Character  : create
+   Character{
+        string item_name
+        int item_id
+    }
+    Player ||--o{ World  : create
+    World {
+        string world_name
+        int world_id
+    }
+    World ||--|{ Object : has
+    Object{
+        int object_id
+        
+    }
+    
+    Character ||--|{ Equiped : has
+    Equiped {
+        string item_name
+        int item_id
+        string item_speciality
+        int item_stats
+    }
+    Equiped ||--|| Item : use
+    Inventory ||--o{ Item : hold
+    Inventory ||--o{ Material : hold
+    Character ||--|{ Object : interact
+    Character ||--|| Inventory  : has 
+    Inventory{
+        int item_id
+        int equiped_item_id
+        string item_name
+        string equiped_item_name
+        int material_id
+        string material_name
+        int object_quantity
+    }
+    Object ||--|| Nature : has
+    Nature {
+        int nature_id
+        string nature_name
+    }
+    Nature ||--|| Material : has
+    Material{
+        int material_id
+        string material_name
+    }
+    Item ||--|| Skills : has
+    Skills {
+        int speciality_id
+        string speciality_name
+    }
+    Object ||--|| Item : has
+    Item {    
+        string item_name
+        int item_id
+        int item_speciality
+        int item_stats
+    }
+    Object ||--|| Monsters : has
+    Monsters {
+        int monsters_id
+        string creature_name
+    }
+    Object ||--|| Animals : has
+    Animals {
+        int animal_id
+        string animal_name
+        int animal_stats
+    }
+   
+
+    Object ||--|| Building : has
+    Building{
+        int building_id
+        int position
+        string building_name
+    }
+    Object ||--|| NPC : has
+    NPC {
+        int NPC_id
+        string NPC_name
+    }
+
+```
+  
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐

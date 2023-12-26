@@ -44,10 +44,32 @@ Perangkat portabel dengan layar sentuh yang dapat digunakan untuk berbagai keper
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 ![Screenshot (22)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ff817e66-0a3c-4271-bc98-1060c0af92f6)
 
+![Screenshot (53)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8d46d421-7a83-4db0-99ee-ec498b78369d)
 
 ## Mencoba Console Sistem Operasi
+Console pada sistem operasi adalah antarmuka teks atau baris perintah yang memungkinkan pengguna berinteraksi dengan sistem operasi melalui perintah-perintah teks. Console di Windows disebut sebagai "Command Prompt", "Terminal" di sistem berbasis Unix/Linux, dan "Command Line Interface (CLI)" secara umum.
 
+Cara mengakses dan menggunakan console dapat bervariasi tergantung pada sistem operasi yang digunakan. Ini adalah beberapa contoh cara mengakses console pada beberapa sistem operasi umum:
 
+1. Windows:
+Command Prompt:
+
+Tekan Win + R untuk membuka jendela "Run".
+Ketik "cmd" atau "cmd.exe" dan tekan Enter.
+PowerShell:
+
+Sama seperti di atas, namun ketik "powershell" dan tekan Enter.
+2. Unix/Linux:
+Terminal:
+Buka menu aplikasi dan cari "Terminal" atau "Konsole", atau gunakan pintasan keyboard seperti Ctrl + Alt + T.
+
+Cara Menggunakan Console:
+Setelah mengakses console,kita dapat memasukkan perintah-perintah teks untuk berinteraksi dengan sistem operasi. Ada beberapa contoh perintah umum:
+
+- dir (Windows) atau ls (Unix/Linux): Menampilkan daftar file dan direktori.
+- cd (Change Directory): Berpindah ke direktori lain. Contoh: cd Documents.
+- copy (Windows) atau cp (Unix/Linux): Menyalin file.
+- del (Windows) atau rm (Unix/Linux): Menghapus file. Contoh: del file.txt atau rm file.txt.
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
@@ -59,10 +81,68 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+Scratch adalah cara mudah dan menyenangkan untuk mempelajari dasar-dasar pemrograman. Ini adalah pemrograman untuk proyek, seperti permainan sederhana atau animasi, tanpa harus mengetikkan banyak kode.
 
+Bagaimana Scratch Bekerja? menggunakan Scratch dengan menggeser dan menjatuhkan blok-blok pemrograman bersama untuk membuat perintah-perintah. Blok-blok ini merepresentasikan aksi atau peristiwa, seperti bergeraknya karakter atau suara yang dimainkan. Ini hanya perlu mengatur blok-blok ini sesuai dengan apa yang ingin Kita lakukan.
+
+Visual dan Warna: Blok-blok di Scratch memiliki warna-warni, membuatnya lebih menyenangkan dan mudah dipahami.
+
+Animasi dan Suara: dapat menambahkan animasi dan suara ke proyek Kita, membuatnya hidup dan interaktif.
+
+Tidak Perlu Menulis Kode: Kita tidak perlu mengetikkan kode seperti dalam pemrograman pada biasanya. Cukup "menyusun" blok-blok.
+
+Scratch sangat cocok untuk pemula, termasuk anak-anak dan pemula dalam pemrograman. Ini memberikan pengantar yang bagus kepada konsep-konsep dasar pemrograman tanpa membuatnya terlalu rumit.
+
+Jadi, Scratch adalah alat yang menyenangkan dan ramah pengguna untuk belajar pemrograman tanpa harus menjadi ahli dalam mengetikkan kode.
 Referensi [1](https://scratch.mit.edu/)
+![Screenshot (54)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/461e2451-1b0d-469d-bfb5-516895d1f99e)
+
+![Screenshot (55)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/443a6a27-48d5-45a1-91dc-a05190cbfe58)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+Bubble sort adalah algoritma pengurutan sederhana yang bekerja dengan membandingkan dan menukar elemen-elemen berpasangan secara berurutan dalam sebuah array. Ini adalah contoh implementasi bubble sort dalam bahasa Java:
+public class BubbleSort {
+    public static void main(String[] args) {
+        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(arr);
+
+        // Melakukan bubble sort
+        bubbleSort(arr);
+
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(arr);
+    }
+
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                // Membandingkan elemen berpasangan dan menukar jika diperlukan
+                if (arr[j] > arr[j+1]) {
+                    // Menukar elemen
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    static void printArray(int[] arr) {
+        for (int value : arr) {
+            System.out.print(value + " ");
+        }
+    }
+}
+
+Ini adalah hasil dari Output Source Code di atas
+![Screenshot (56)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/36e3f6cd-a24f-4176-98cb-e161fd3586c3)
+
+- bubbleSort(int[] arr): Metode ini melakukan bubble sort pada array yang diberikan.
+- Dua loop bersarang digunakan untuk membandingkan dan menukar elemen-elemen secara berpasangan.
+- printArray(int[] arr): Metode ini digunakan untuk mencetak elemen-elemen array.
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 IDE adalah sebuah perangkat lunak yang menyediakan berbagai alat dan fitur untuk membantu pengembang perangkat lunak dalam proses pembuatan, pengujian, dan debugging program komputer.  IDE yang selama ini telah saya coba dan demonstrasikan yaitu:

@@ -83,6 +83,10 @@ flowchart TD
     B <--> C[Database : MySQL]
 
 ```
+- Ini adalah hasil dari bentuk flowchart di atas
+![Screenshot (61)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ae4f2e78-433c-4e13-814a-b7b4178a3434)
+
+
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐

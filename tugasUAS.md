@@ -242,10 +242,9 @@ flowchart TD
 
 ```
  
- - Ini adalah pengunaan flowchart pada tugas UTS
+ - Ini adalah pengunaan flowchart pada tugas UTS yaitu struktur data
 
-
-    ```mermaid
+```mermaid
 
 erDiagram 
     Player{

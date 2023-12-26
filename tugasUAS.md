@@ -74,6 +74,157 @@ Setelah mengakses console,kita dapat memasukkan perintah-perintah teks untuk ber
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+CMD atau Command Prompt di WINDOWS. CMD dapat digunakan sesuai dengan keinginan user melalui kode-kode dibawah ini atau Command Line:
+1. **`dir`:**
+   - Menampilkan daftar file dan folder dalam direktori saat ini.
+
+2. **`cd`:**
+   - Mengubah direktori atau pindah ke direktori tertentu.
+
+3. **`copy`:**
+   - Menyalin file dari satu lokasi ke lokasi lain.
+
+4. **`del` atau `erase`:**
+   - Menghapus satu atau beberapa file.
+
+5. **`mkdir` atau `md`:**
+   - Membuat direktori baru.
+
+6. **`rmdir` atau `rd`:**
+   - Menghapus direktori (harus kosong).
+
+7. **`echo`:**
+   - Menampilkan teks atau mengaktifkan atau menonaktifkan fitur echo.
+
+8. **`type`:**
+   - Menampilkan isi file teks.
+
+9. **`rename` atau `ren`:**
+   - Mengganti nama file atau direktori.
+
+10. **`cls`:**
+    - Membersihkan layar konsol.
+
+11. **`ipconfig`:**
+    - Menampilkan informasi konfigurasi IP, seperti alamat IP dan gateway.
+
+12. **`ping`:**
+    - Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
+
+13. **`tracert` atau `traceroute`:**
+    - Melacak rute paket melalui jaringan.
+
+14. **`netstat`:**
+    - Menampilkan statistik dan informasi koneksi jaringan.
+
+15. **`tasklist`:**
+    - Menampilkan daftar proses yang sedang berjalan.
+
+16. **`taskkill`:**
+    - Menutup atau mengakhiri proses yang sedang berjalan.
+
+17. **`shutdown`:**
+    - Mematikan atau me-restart komputer.
+
+18. **`systeminfo`:**
+    - Menampilkan informasi konfigurasi sistem.
+
+19. **`sfc` (System File Checker):**
+    - Memeriksa dan memperbaiki file sistem yang rusak.
+
+20. **`chkdsk`:**
+    - Memeriksa dan memperbaiki kesalahan pada disk.
+
+21. **`format`:**
+    - Menghapus semua data pada drive dan memformatnya.
+
+22. **`xcopy`:**
+    - Menyalin file dan direktori dengan lebih banyak opsi daripada `copy`.
+
+23. **`find`:**
+    - Mencari teks dalam file.
+
+24. **`attrib`:**
+    - Mengubah atribut file atau folder.
+
+25. **`gpupdate`:**
+    - Memperbarui kebijakan grup pada sistem.
+
+26. **`net`:**
+    - Mengelola sumber daya jaringan, pengguna, dan grup.
+
+27. **`shutdown`:**
+    - Menjadwalkan atau membatalkan shutdown.
+
+28. **`sc` (Service Control):**
+    - Mengelola layanan Windows.
+
+29. **`assoc`:**
+    - Menampilkan atau mengubah asosiasi ekstensi file.
+
+30. **`fsutil`:**
+    - Mengelola berbagai aspek file system.
+
+31. **`cipher`:**
+    - Mengenkripsi atau mendekripsi file dan folder.
+
+32. **`reg`:**
+    - Mengelola registri Windows.
+
+33. **`bcdedit`:**
+    - Mengedit konfigurasi boot.
+
+34. **`hostname`:**
+    - Menampilkan atau mengatur nama komputer.
+
+35. **`date`:**
+    - Menampilkan atau mengatur tanggal sistem.
+
+36. **`time`:**
+    - Menampilkan atau mengatur waktu sistem.
+
+37. **`gpedit.msc`:**
+    - Membuka Editor Kebijakan Grup.
+
+38. **`msconfig`:**
+    - Membuka Utilitas Konfigurasi Sistem.
+
+39. **`taskmgr`:**
+    - Membuka Manajer Tugas.
+
+40. **`mmc` (Microsoft Management Console):**
+    - Membuka konsol manajemen dengan snap-ins yang dapat disesuaikan.
+
+41. **`wmic` (Windows Management Instrumentation Command-line):**
+    - Menyediakan antarmuka untuk mengakses informasi manajemen dan konfigurasi Windows.
+
+42. **`powercfg`:**
+    - Mengelola pengaturan daya dan energi.
+
+43. **`takeown`:**
+    - Mengambil kepemilikan file atau direktori.
+
+44. **`icacls`:**
+    - Mengonfigurasi hak akses berbasis list kontrol akses (ACL).
+
+45. **`task scheduler`:**
+    - Mengelola tugas yang dijadwalkan.
+
+46. **`subst`:**
+    - Menetapkan jalur subst atau menghapus penggantian.
+
+47. **`netsh`:**
+    - Konfigurasi dan diagnosa jaringan.
+
+48. **`driverquery`:**
+    - Menampilkan daftar driver perangkat yang diinstal pada sistem.
+
+49. **`mode`:**
+    - Mengkonfigurasi perangkat sistem.
+
+50. **`shutdown`:**
+    - Mematikan atau me-restart komputer.
+
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 

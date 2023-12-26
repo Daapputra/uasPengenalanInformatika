@@ -328,7 +328,7 @@ Profesi yang saya minati di bidang Informatika yaitu :
 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing seperti Inggris,Jerman,Prancis,Jepang,dan lain sebagainya
+Duolingo adalah aplikasi belajar berbahasa dengan fitur yang menyenagkan dan menarik sangat cocok untuk orang yang suka belajar sambil di temani dengan tampilan yang menyenangkan, Duolingo ini mencakup banyak bahasa asing seperti Inggris,Jerman,Prancis,Jepang,dan lain sebagainya
 ![Screenshot (24)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/74064ae7-344f-487f-9bc9-0e32568b3507)
 - saat mencoba latihan bahasa Inggris
 ![Screenshot (25)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9e6195d0-3b35-40a9-abdb-e02de080562f)
@@ -337,12 +337,51 @@ Duolingo adalah aplikasi belajar berbahasa yang mencakup beberapa bahasa asing s
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Disini saya sudah lumayan banyak mencari informasi dan eksplorasi tentang pekerjaan IT, tentunya lowongan pekerjaan IT banyak tersebar di internet dan ini adalah contoh pekerjaan-pekerjaan yang sudah saya Eksplore di internet
+- Saya mencari tahu di jobstreet.co.id
+![Screenshot (78)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/65416a98-d854-478c-b844-b22679cb19ee)
+![Screenshot (79)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d366370c-8105-429f-819c-f7b179306fc4)
+![Screenshot (80)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/c5b2ec6d-5fdc-45c4-965e-398fea4702a3)
+![Screenshot (81)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/939b4f9b-fba3-4c73-bcd2-3f9810b37bcb)
+![Screenshot (82)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/faf601d3-3fe0-41ba-86e4-07ceaeaef5a1)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Freelancer adalah seseorang yang bekerja secara mandiri tanpa terikat dengan satu perusahaan atau bos tertentu. Mereka menawarkan jasa atau keahlian mereka kepada berbagai klien atau perusahaan yang membutuhkan bantuan dalam proyek atau pekerjaan tertentu.freelance rata-rata banyak yang dapat dilakukan secara remote, part-time, dan dibayat per project, dan kemungkinan Freelancer ini cocok untuk mahasiswa.
+
+- Eksplorasi Freelancer.co.id
+![Screenshot (75)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3a9c45ae-49c5-4bcf-a0dc-52835e91446b)
+![Screenshot (76)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d7bebfd7-b66b-4a42-abf7-57a2990dcf02)
+![Screenshot (77)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2df50a18-1f7c-4d2d-9a7e-195a697a945e)
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Roadmap itu ibaratnya seperti peta jalan untuk karier di dunia teknologi. Ini memberikan panduan langkah demi langkah tentang keterampilan dan pengetahuan apa yang perlu kita pelajari untuk mencapai tujuan tertentu dalam karier. Misalnya, jika kita ingin menjadi pengembang web, roadmap tersebut akan memberi tahu kita langkah-langkah apa yang harus diambil, bahasa pemrograman apa yang perlu kita kuasai, dan alat yang harus kita pahami, dan lain sebagainya.
+Saya login di Roadmap.sh menggunakan akun github saya yaitu https://github.com/Daapputra
+- Cyber Security Expert
+![Screenshot (65)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2ea074e5-e38b-4477-91a3-424b7ef7643f)
+![Screenshot (69)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/54001371-ec7e-4353-9579-dd4a20855e79)
+
+- Backend Developer
+![Screenshot (67)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/cdb8cb18-2cad-40bf-b064-59d7c857fa56)
+![Screenshot (68)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ec55671f-37e0-4d15-8d93-090fbdbb9317)
+
+- Blockchain Developer
+![Screenshot (70)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/969a98a6-6bdf-45e7-98c1-737dd1eb378c)
+![Screenshot (71)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a72943ce-b45b-41a9-913b-d9cc07606be1)
+
+- Game Developer
+![Screenshot (72)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a0ffa175-861a-4c86-b317-f093a1651a0c)
+![Screenshot (73)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/fcba19dd-e8b3-4630-a1b0-01f5a5f53c07)
+![Screenshot (74)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8a9140a6-3014-407e-b51f-f9f03fdcf67e)
+
+
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Ini adalah Top Github Project yang saya mintai diantaranya:
+- Project EbookFoundation/FreeProraming book https://github.com/ebookfoundation
+- Project Termux https://github.com/termux/termux-app
+- Project tensorflow https://github.com/tensorflow/tensorflow
+- Prokect freecodecamp https://github.com/freecodecamp
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 Linkedin profile saya dan ini adalah link nya https://www.linkedin.com/in/muhammad-nur-daffa-6867762a6/
@@ -354,7 +393,7 @@ Linkedin profile saya dan ini adalah link nya https://www.linkedin.com/in/muhamm
 - Adobe
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-https://github.com/Daapputra
+Ini adalah akun Profile Github Page saya https://github.com/Daapputra
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 - Mengikuti Zoom Meeting dari Kapita Selekta Informatika bertema "Generative AI in Natural Language Processing

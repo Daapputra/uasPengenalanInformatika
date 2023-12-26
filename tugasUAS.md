@@ -137,12 +137,12 @@ public class BubbleSort {
     }
 }
 
-Ini adalah hasil dari Output Source Code di atas
-![Screenshot (56)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/36e3f6cd-a24f-4176-98cb-e161fd3586c3)
-
 - bubbleSort(int[] arr): Metode ini melakukan bubble sort pada array yang diberikan.
 - Dua loop bersarang digunakan untuk membandingkan dan menukar elemen-elemen secara berpasangan.
 - printArray(int[] arr): Metode ini digunakan untuk mencetak elemen-elemen array.
+
+- Ini adalah hasil dari Output Source Code di atas
+![Screenshot (56)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/36e3f6cd-a24f-4176-98cb-e161fd3586c3)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 IDE adalah sebuah perangkat lunak yang menyediakan berbagai alat dan fitur untuk membantu pengembang perangkat lunak dalam proses pembuatan, pengujian, dan debugging program komputer.  IDE yang selama ini telah saya coba dan demonstrasikan yaitu:
@@ -174,6 +174,25 @@ Demonstrasi penggunaan HackerRank:
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+Saya di sini membuat Game dengan menggunakan game Engine Godot, Godot ini merupakana Open Source yang dapat digunakan untuk membuat permainan baik 2D maupun 3D. Godot mendukung beberapa bahasa pemrograman, termasuk GDScript (bahasa pemrograman khusus untuk Godot)
+
+- Ini adalah hasil tampilan dari game yang saya buat.
+![Screenshot (60)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8e42f038-7fd9-4669-a66a-3cdfb510ce7e)
+
+- Ini adalah kodingan dari pembuatan player nya sehingga player dapat bergerak dengan menggunkan animasi bergerak.
+![Screenshot (57)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ba6b962a-38f4-4f03-be0b-511dc8bfee0c)
+
+- Ini adalah kodingan dari apel yang ada di pohon, jadi apabila apel itu di ambil maka apel yamg ada di pohon tersebut akan menghilang karena sudah terambil.
+![Screenshot (58)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ce90d063-3013-469a-822b-138a09729115)
+
+- Ini adalah kodingan dari pembuatan jatuhnya apel tersebut dari pohon ketika di ambil
+![Screenshot (59)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/39eede4c-7207-4395-b29e-8bcc1eab84c7)
+
+- Selebihnya dan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8
+
+
+
+
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 

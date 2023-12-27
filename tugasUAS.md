@@ -75,41 +75,30 @@ Setelah mengakses console,kita dapat memasukkan perintah-perintah teks untuk ber
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 CMD atau Command Prompt di WINDOWS. CMD dapat digunakan sesuai dengan keinginan user melalui kode-kode dibawah ini atau Command Line:
-1. **`dir`:**
-   - Menampilkan daftar file dan folder dalam direktori saat ini.
+1. **`dir`:** Menampilkan daftar file dan folder dalam direktori saat ini.
 
-2. **`cd`:**
-   - Mengubah direktori atau pindah ke direktori tertentu.
+2. **`cd`:** Mengubah direktori atau pindah ke direktori tertentu.
 
-3. **`copy`:**
-   - Menyalin file dari satu lokasi ke lokasi lain.
+3. **`copy`:** Menyalin file dari satu lokasi ke lokasi lain.
 
-4. **`del` atau `erase`:**
-   - Menghapus satu atau beberapa file.
+4. **`del` atau `erase`:** Menghapus satu atau beberapa file.
 
-5. **`mkdir` atau `md`:**
-   - Membuat direktori baru.
+5. **`mkdir` atau `md`:** Membuat direktori baru.
 
-6. **`rmdir` atau `rd`:**
-   - Menghapus direktori (harus kosong).
+6. **`rmdir` atau `rd`:** Menghapus direktori (harus kosong).
 
-7. **`echo`:**
-   - Menampilkan teks atau mengaktifkan atau menonaktifkan fitur echo.
+7. **`echo`:** Menampilkan teks atau mengaktifkan atau menonaktifkan fitur echo.
 
-8. **`type`:**
-   - Menampilkan isi file teks.
+8. **`type`:** Menampilkan isi file teks.
 
-9. **`rename` atau `ren`:**
-   - Mengganti nama file atau direktori.
+9. **`rename` atau `ren`:** Mengganti nama file atau direktori.
 
 10. **`cls`:**
     - Membersihkan layar konsol.
 
-11. **`ipconfig`:**
-    - Menampilkan informasi konfigurasi IP, seperti alamat IP dan gateway.
+11. **`ipconfig`:** Menampilkan informasi konfigurasi IP, seperti alamat IP dan gateway.
 
-12. **`ping`:**
-    - Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
+12. **`ping`:** Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
 - Ini adalah beberapa contoh dari fungsi Command
 ![Screenshot (97)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ad908221-c005-411f-8d8a-acae7b1008cd)
 ![Screenshot (94)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/95ab4a11-ea7d-4073-a727-3e2778b7b43a)

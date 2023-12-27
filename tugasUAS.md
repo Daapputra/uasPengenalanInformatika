@@ -672,7 +672,9 @@ Duolingo adalah aplikasi belajar berbahasa dengan fitur yang menyenagkan dan men
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 - Disini saya mencoba belajar Bahasa Inggris menggunakan HelloTalk dan mencoba untuk berkomunikasi dengan orang luar
 ![foto](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1ebea502-3451-4cc7-8b25-9f3bbe049aee)
-![foto](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/c39ab484-9847-4bac-9694-3c5730e5e0e3)
+
+![HelloTalk](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5b73bcdc-43e1-45c5-ae64-d9ffbef2770c)
+
 ![image](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9e18dec4-9ae6-4715-8386-f8bfcfefc832)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐

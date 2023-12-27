@@ -646,7 +646,7 @@ MQTT, yang merupakan singkatan dari Message Queuing Telemetry Transport, adalah 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 File CSV (Comma-Separated Values) adalah format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
 ![Screenshot (124)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d25f19d5-98a9-4222-a6c1-d7cb268c1a12)
--ini adalah saat memasukkan file CSV menggunakan Google COlab
+- Ini adalah saat memasukkan file CSV menggunakan Google COlab
 ![Screenshot (123)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1f16d585-6d86-4a7a-9f51-54427d19e062)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
@@ -698,7 +698,7 @@ Profesi yang saya minati di bidang Informatika yaitu :
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 Duolingo adalah aplikasi belajar berbahasa dengan fitur yang menyenagkan dan menarik sangat cocok untuk orang yang suka belajar sambil di temani dengan tampilan yang menyenangkan, Duolingo ini mencakup banyak bahasa asing seperti Inggris,Jerman,Prancis,Jepang,dan lain sebagainya
 ![Screenshot (24)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/74064ae7-344f-487f-9bc9-0e32568b3507)
-- saat mencoba latihan bahasa Inggris
+- Ini adalah saat mencoba latihan Bahasa Inggris
 ![Screenshot (25)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9e6195d0-3b35-40a9-abdb-e02de080562f)
 
 

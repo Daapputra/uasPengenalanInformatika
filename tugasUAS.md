@@ -110,123 +110,55 @@ CMD atau Command Prompt di WINDOWS. CMD dapat digunakan sesuai dengan keinginan 
 
 12. **`ping`:**
     - Mengirim paket data ke alamat IP atau nama domain untuk menguji koneksi jaringan.
+- Ini adalah beberapa contoh dari fungsi Command
+![Screenshot (97)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ad908221-c005-411f-8d8a-acae7b1008cd)
+![Screenshot (94)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/95ab4a11-ea7d-4073-a727-3e2778b7b43a)
+![Screenshot (93)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/781be065-4052-45aa-bff9-c62f7a093db3)
+![Screenshot (95)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/215c6bd2-9eae-42c3-9bb4-655a1011e2ec)
+![Screenshot (96)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3f89bbd0-5a5f-472e-93e0-3dd9724f7cd5)
+![Screenshot (98)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/df6f9ff2-8969-4d0f-8d86-add5a9dcd6d2)
 
-13. **`tracert` atau `traceroute`:**
-    - Melacak rute paket melalui jaringan.
-
-14. **`netstat`:**
-    - Menampilkan statistik dan informasi koneksi jaringan.
-
-15. **`tasklist`:**
-    - Menampilkan daftar proses yang sedang berjalan.
-
-16. **`taskkill`:**
-    - Menutup atau mengakhiri proses yang sedang berjalan.
-
-17. **`shutdown`:**
-    - Mematikan atau me-restart komputer.
-
-18. **`systeminfo`:**
-    - Menampilkan informasi konfigurasi sistem.
-
-19. **`sfc` (System File Checker):**
-    - Memeriksa dan memperbaiki file sistem yang rusak.
-
-20. **`chkdsk`:**
-    - Memeriksa dan memperbaiki kesalahan pada disk.
-
-21. **`format`:**
-    - Menghapus semua data pada drive dan memformatnya.
-
-22. **`xcopy`:**
-    - Menyalin file dan direktori dengan lebih banyak opsi daripada `copy`.
-
-23. **`find`:**
-    - Mencari teks dalam file.
-
-24. **`attrib`:**
-    - Mengubah atribut file atau folder.
-
-25. **`gpupdate`:**
-    - Memperbarui kebijakan grup pada sistem.
-
-26. **`net`:**
-    - Mengelola sumber daya jaringan, pengguna, dan grup.
-
-27. **`shutdown`:**
-    - Menjadwalkan atau membatalkan shutdown.
-
-28. **`sc` (Service Control):**
-    - Mengelola layanan Windows.
-
-29. **`assoc`:**
-    - Menampilkan atau mengubah asosiasi ekstensi file.
-
-30. **`fsutil`:**
-    - Mengelola berbagai aspek file system.
-
-31. **`cipher`:**
-    - Mengenkripsi atau mendekripsi file dan folder.
-
-32. **`reg`:**
-    - Mengelola registri Windows.
-
-33. **`bcdedit`:**
-    - Mengedit konfigurasi boot.
-
-34. **`hostname`:**
-    - Menampilkan atau mengatur nama komputer.
-
-35. **`date`:**
-    - Menampilkan atau mengatur tanggal sistem.
-
-36. **`time`:**
-    - Menampilkan atau mengatur waktu sistem.
-
-37. **`gpedit.msc`:**
-    - Membuka Editor Kebijakan Grup.
-
-38. **`msconfig`:**
-    - Membuka Utilitas Konfigurasi Sistem.
-
-39. **`taskmgr`:**
-    - Membuka Manajer Tugas.
-
-40. **`mmc` (Microsoft Management Console):**
-    - Membuka konsol manajemen dengan snap-ins yang dapat disesuaikan.
-
-41. **`wmic` (Windows Management Instrumentation Command-line):**
-    - Menyediakan antarmuka untuk mengakses informasi manajemen dan konfigurasi Windows.
-
-42. **`powercfg`:**
-    - Mengelola pengaturan daya dan energi.
-
-43. **`takeown`:**
-    - Mengambil kepemilikan file atau direktori.
-
-44. **`icacls`:**
-    - Mengonfigurasi hak akses berbasis list kontrol akses (ACL).
-
-45. **`task scheduler`:**
-    - Mengelola tugas yang dijadwalkan.
-
-46. **`subst`:**
-    - Menetapkan jalur subst atau menghapus penggantian.
-
-47. **`netsh`:**
-    - Konfigurasi dan diagnosa jaringan.
-
-48. **`driverquery`:**
-    - Menampilkan daftar driver perangkat yang diinstal pada sistem.
-
-49. **`mode`:**
-    - Mengkonfigurasi perangkat sistem.
-
-50. **`shutdown`:**
-    - Mematikan atau me-restart komputer.
+- md (membuat direktori baru dalam sistem)
+- cd (merubah direktori/berpindah direktori)
+- color (merubah warna teks)
+- date (memperlihatkan dan merubah tanggal)
+- time (memperlihatkan waktu dan merubah waktu)
+- hostname (memperlihatkan nama komputer)
+- dir (memperlihatkan direktori yang ada didalam file
+- ping (mengecek internet)
+- systeminfo (memperlihatkan detail informasi dari sistem)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+Linux Terminal dikenal sebagai Command Line Interface (CLI) atau shell, adalah interface berbasis teks yang memungkinkan user berinteraksi dengan sistem operasi Linux melalui baris perintah. Terminal Linux memungkinkan pengguna untuk menjalankan perintah teks dan mengakses berbagai fitur pekerjaan sistem serta menjalankan skrip dan program. (bersumber dari artikel dan ChatGPT)
 
+karakteristik dan konsep terkait dengan Terminal Linux:
+1. Shell:
+   - Terminal Linux menjalankan sebuah shell, yang bertanggung jawab untuk menafsirkan dan menjalankan perintah yang dimasukkan oleh pengguna. Beberapa shell umum di Linux antara lain Bash (Bourne Again SHell), Zsh (Z Shell), dan Fish.
+
+2. Baris Perintah:
+   - Pengguna memasukkan perintah teks ke dalam terminal, dan sistem merespons dengan hasil eksekusi perintah tersebut. Baris perintah sering kali dimulai dengan prompt yang menunjukkan lokasi direktori saat ini, nama pengguna, dan sejenisnya.
+
+3. Direktori Kerja (Working Directory):
+   - Terminal selalu bekerja dalam suatu direktori tertentu pada suatu waktu. Pengguna dapat berpindah antar direktori menggunakan perintah `cd`.
+
+4. Perintah dan Argumen:
+   - Perintah diikuti oleh argumen dan opsi yang menentukan tindakan yang harus diambil oleh perintah tersebut. Misalnya, `ls` untuk menampilkan daftar file di direktori, dan `ls -l` untuk menampilkan daftar file dengan informasi lebih detail.
+
+5. Redirection dan Pipelines:
+   - Pengguna dapat mengarahkan output dari suatu perintah ke file atau perintah lain menggunakan operator seperti `>` atau `|` (pipa).
+
+6. Perintah Berbasis Teks:
+   - Terminal memungkinkan pengguna untuk melakukan berbagai tugas, seperti mengelola file, mengonfigurasi sistem, menjalankan skrip, dan banyak lagi. Sebagian besar perintah Linux bersifat teks dan dapat dipanggil melalui terminal.
+
+7. Perintah Awal dan Aliases:
+   - Pengguna dapat membuat perintah awal (shell script) dan mengonfigurasi alias untuk membuat perintah yang lebih kompleks atau mempersingkat perintah tertentu.
+
+Terminal Linux adalah alat yang kuat dan fleksibel yang sering digunakan oleh pengguna tingkat lanjut dan administrator sistem untuk menjalankan tugas-tugas yang tidak dapat dilakukan dengan antarmuka grafis. Ini juga merupakan cara yang efisien untuk mengelola dan menjelajahi sistem operasi Linux.
+Karena fleksibilitasnya, linux juga sering digunakan sebagai OS yang dapat menjelajahi lebih dalam seluk beluk dari suatu program, dan kemampuan mengulik yang lebih fleksibel dikarenakan sistem open-source nya.
+
+contoh penggunaan Linux terminal di Google Colab
+- Perlu diingat dalam menggunakan command linux di Google Colab harus disertakan dengan tanda seru (!) diawal command yang kita tuliskan, sehingga perintah dapat dieksekusi.
+![Screenshot (99)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/67d40c60-37e2-4140-a93c-89ea80fb5f9d)
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
@@ -452,15 +384,108 @@ Saya di sini membuat Game dengan menggunakan game Engine Godot, Godot ini merupa
 - Selebihnya dan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8
 
 
-
-
-
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+Disini saya mendownload MySQL, Kenapa saya memilih MySQL? karena MySQL seringkali menjadi pilihan karena beberapa alasan. Pertama, MySQL adalah database open-source yang dapat diakses dan digunakan secara gratis, membuatnya ekonomis untuk banyak proyek. Selain itu, MySQL memiliki kinerja yang baik dan dapat menangani beban kerja tinggi dengan cepat dan efisien.
 
+MySQL juga mendukung banyak fitur penting seperti indeks, transaksi, dan keamanan yang dapat diandalkan. Keberlanjutan dan dukungan komunitas yang besar juga merupakan keuntungan, karena banyak pengembang yang berkontribusi pada pengembangan dan pemeliharaan MySQL.
+- Proses Download MySQL
+![Screenshot (100)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3019fade-d485-4362-8900-0b39d14aaf1c)
+![Screenshot (101)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a6a80ba2-3f12-4d4c-b625-952f002825d6)
+- Konfigurasi server MySQL
+![Screenshot (102)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3d9c476a-ba9e-47ec-acd0-73b3df0a9c6f)
+![Screenshot (104)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/605cd575-1086-4f8f-9358-ceb4907d8a26)
+
+  
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+Eksplorasi dan query database adalah proses mengakses, menganalisis, dan memanipulasi data yang tersimpan dalam suatu basis data. Ada beberapa cara untuk melakukan eksplorasi dan query database, tergantung pada jenis database yang digunakan dan alat yang tersedia. Berikut adalah panduan umum untuk melakukan eksplorasi dan query database.
+Disni saya mencoba Eksplorasi Dbeaver di github https://github.com/dbeaver/dbeaver
+
+-Eksplorasi Dbeaver
+![Screenshot (105)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8079d7b8-6734-4a98-ad3d-f77b589b7e2a)
+![Screenshot (106)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/cb959315-e600-42bc-9e54-952d1a65497b)
+![Screenshot (107)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/10a76159-e475-4751-9539-3a7a63db3a11)
+
+- Code yang digunakan kebanyakan adalah Java dan membutuhkan JDK 17 untuk dijalankan
+![Screenshot (108)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/dec97968-7bc5-4e9c-9d37-e3d34c8679d7)
+
+## Eksplorasi Database:
+
+1. Memahami Struktur Database:
+   - Ketahui skema dan struktur tabel dalam database. Identifikasi kolom-kolom, tipe data, dan hubungan antar tabel.
+
+2. Menggunakan Alat Manajemen Database:
+   - Gunakan alat manajemen database seperti MySQL Workbench, pgAdmin (untuk PostgreSQL), atau SQL Server Management Studio (SSMS) untuk secara visual menavigasi dan menjelajahi database.
+
+3. Menampilkan Sampel Data:
+   - Jalankan perintah SQL SELECT untuk menampilkan sampel data dari tabel tertentu.
+     ```sql
+     SELECT * FROM nama_tabel LIMIT 10;
+     ```
+
+### Query Database:
+
+1. Menulis Query Dasar:
+   - Gunakan perintah SQL SELECT untuk mengambil data dari tabel.
+     ```sql
+     SELECT kolom1, kolom2 FROM nama_tabel WHERE kondisi;
+     ```
+
+2. Filtering Data:
+   - Gunakan klausa WHERE untuk menyaring data berdasarkan kondisi tertentu.
+     ```sql
+     SELECT * FROM nama_tabel WHERE kolom = 'nilai';
+     ```
+
+3. Sorting Data:
+   - Gunakan klausa ORDER BY untuk mengurutkan data berdasarkan kolom tertentu.
+     ```sql
+     SELECT * FROM nama_tabel ORDER BY kolom ASC/DESC;
+     ```
+
+4. Aggregasi Data:
+   - Gunakan fungsi agregasi seperti COUNT, SUM, AVG, MIN, MAX untuk merangkum data.
+     ```sql
+     SELECT COUNT(id) AS jumlah_data FROM nama_tabel;
+     ```
+     
+5. Gabungan Tabel (JOIN):
+   - Gabungkan dua atau lebih tabel menggunakan klausa JOIN.
+     ```sql
+     SELECT * FROM tabel1
+     INNER JOIN tabel2 ON tabel1.kolom = tabel2.kolom;
+     ```
+
+6. Grup dan Agregasi (GROUP BY):
+   - Gunakan klausa GROUP BY untuk mengelompokkan data berdasarkan kolom tertentu.
+     ```sql
+     SELECT kolom, COUNT(*) AS jumlah FROM nama_tabel GROUP BY kolom;
+     ```
+
+7. Subqueries:
+   - Gunakan subqueries untuk membuat query bersarang yang menghasilkan set data yang digunakan dalam query utama.
+     ```sql
+     SELECT kolom FROM nama_tabel WHERE kolom IN (SELECT kolom FROM tabel_lain);
+     ```
+
+8. Paging (LIMIT dan OFFSET):
+   - Gunakan klausa LIMIT dan OFFSET untuk mengatur paging dalam hasil query.
+     ```sql
+     SELECT * FROM nama_tabel LIMIT 10 OFFSET 20;
+     ```
+
+9. Menyimpan Query:
+   - Simpan query yang sering digunakan atau kompleks untuk referensi di masa depan.
+
+10. Optimasi Query:
+    - Pastikan untuk mengoptimalkan query menggunakan indeks, membatasi SELECT * jika tidak diperlukan, dan menggunakan indeks yang sesuai.
+
+Contoh Query:
+```sql
+SELECT nama, usia FROM karyawan WHERE departemen = 'IT' ORDER BY usia DESC LIMIT 5;
+```
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
@@ -470,15 +495,86 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
+- HTML (Hypertext Markup Language) dirancang khusus untuk ditampilkan di web browser. Ada beberapa alasan mengapa HTML harus ditampilkan di browser: (diambil dari artikel)
+
+1. Interaktivitas:
+   HTML menyediakan elemen dan tag yang memungkinkan pembuatan halaman web interaktif. Browser memahami struktur HTML dan mampu menampilkan elemen-elemen ini dengan cara yang memungkinkan pengguna berinteraksi dengan konten.
+
+2. Rendering dan Tampilan:
+   Browser memiliki mesin rendering yang dapat menafsirkan dan menampilkan HTML dengan cara yang sesuai dengan standar web. Mereka mengonversi markup HTML menjadi tata letak visual yang dapat dilihat oleh pengguna.
+
+3. Kemampuan Menangani Multimedia:
+   HTML tidak hanya menyediakan teks dan gambar, tetapi juga mendukung multimedia seperti audio dan video. Browser memiliki kemampuan bawaan untuk memainkan dan menampilkan elemen-elemen multimedia ini.
+
+4. Koneksi ke Server:
+   HTML bekerja secara terintegrasi dengan protokol HTTP dan HTTPS untuk mengambil informasi dari server. Browser bertindak sebagai klien yang meminta dan menampilkan halaman web dari server.
+
+5. Pemrosesan Skrip:
+   HTML dapat menyertakan skrip JavaScript yang dieksekusi oleh browser untuk menambahkan fungsionalitas dinamis ke halaman web. Browser memiliki mesin JavaScript yang memproses dan menjalankan skrip ini.
+
+6. Kemampuan untuk Menavigasi:
+   HTML menyediakan elemen-elemen seperti tautan (`<a>`) yang memungkinkan navigasi antarhalaman. Browser memungkinkan pengguna untuk mengklik tautan dan beralih antarhalaman dengan mudah.
+
+Jadi, HTML dan browser bekerja sama untuk memberikan pengalaman pengguna yang kaya dan interaktif di dunia web. HTML sendiri adalah bahasa markup statis, dan browser menyediakan lingkungan yang dapat menafsirkan, memproses, dan menampilkan halaman web sesuai dengan spesifikasi HTML.
+
+- Domonstrasi
+
+- Jadi misalnya ini adalah halaman yang akan di lihat oleh pengguna(Interface)
+![Screenshot (111)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e27134d1-5e04-4f2b-8e1c-3bb7470a137d)
+
+- Lalu ini adalah cara pembuatannya
+![Screenshot (112)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/59564d63-2833-4e24-8f8a-2db2077e14ca)
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+URL (Uniform Resource Locator) adalah alamat yang digunakan untuk mengidentifikasi sumber daya di internet. URL terdiri dari beberapa komponen yang menjelaskan lokasi dan protokol akses ke sumber daya tersebut. Ini adalah contoh URL beserta penjelasan untuk setiap komponennya:
+
+Contoh URL: https://www.example.com/page?q=query
+
+- Protokol (Protocol):
+Contoh: https
+Untuk menunjukkan protokol komunikasi yang digunakan, dalam hal ini, HTTPS (Hypertext Transfer Protocol Secure).
+
+- Nama Host (Host Name):
+Contoh: www.example.com
+Untuk menunjukkan alamat host atau server tempat sumber daya tersebut berada.
+
+- Path (Path):
+Contoh: /page
+Untuk menunjukkan jalur atau lokasi spesifik dari sumber daya di dalam server.
+
+- Query String:
+Contoh: q=query
+Untuk menunjukkan parameter atau informasi tambahan yang dikirimkan ke server. Query string dimulai dengan tanda tanya (?).
+
+Jadi, keseluruhan URL ini menggambarkan protokol HTTPS, sumber daya yang terletak di server dengan nama host "www.example.com" dan di jalur "/page", dengan parameter query "q" memiliki nilai "query".
+
+
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+Pelacakan informasi server dari alamat domain dapat dilakukan dengan menggunakan berbagai alat dan metode. Beberapa cara umum untuk melacak informasi server termasuk:
 
+- NSLOOKUP (Name Server Lookup): Alat ini dapat digunakan untuk menemukan informasi DNS dari suatu domain, termasuk alamat IP servernya. Contoh perintah di terminal/command prompt:
+nslookup namadomain.com
+WHOIS Lookup: Layanan WHOIS memberikan informasi tentang pemilik domain, termasuk alamat IP dan server nama. Anda dapat menggunakan situs web WHOIS atau alat dari terminal/command prompt. 
+Contoh:
+whois namadomain.com
+Traceroute (Trace Route): Alat ini membantu melacak rute paket data dari titik asal ke server tujuan, memberikan wawasan tentang titik-titik perantara. 
+Contoh:
+traceroute namadomain.com
+
+- Kemudian disini saya mencoba pelacakan menggunakan Command-line Tools
+![Screenshot (113)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/53d8eac3-dd10-4544-9daf-87c603eb233e)
+
+  
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+- Disini saya mencoba membuat Halaman Web menggunakan HTML, dan ini adalah kodingannya
+![Screenshot (109)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5cdfb4bd-b8b8-43b6-a342-36deb14f00e5)
+
+- Kemudian disini adalah User Interface nya nanti ketika sudah bisa digunakan oleh user
+![Screenshot (110)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2ae4f929-da3c-4401-9dad-e2c4a93902d4)
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)

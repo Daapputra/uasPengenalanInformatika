@@ -357,7 +357,8 @@ Demonstrasi penggunaan HackerRank:
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 Saya di sini membuat Game dengan menggunakan game Engine Godot, Godot ini merupakana Open Source yang dapat digunakan untuk membuat permainan baik 2D maupun 3D. Godot mendukung beberapa bahasa pemrograman, termasuk GDScript (bahasa pemrograman khusus untuk Godot)
-
+- Ini adalah penjelasan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8 dan link github UTS saya tentang game ini juga https://github.com/Daapputra/ProjekUTS/blob/main/Kibo%20The%20Explorer.md
+  
 - Ini adalah hasil tampilan dari game yang saya buat.
 ![Screenshot (60)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8e42f038-7fd9-4669-a66a-3cdfb510ce7e)
 
@@ -370,7 +371,7 @@ Saya di sini membuat Game dengan menggunakan game Engine Godot, Godot ini merupa
 - Ini adalah kodingan dari pembuatan jatuhnya apel tersebut dari pohon ketika di ambil
 ![Screenshot (59)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/39eede4c-7207-4395-b29e-8bcc1eab84c7)
 
-- Selebihnya dan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8
+- Ini adalah penjelasan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -669,6 +670,10 @@ Duolingo adalah aplikasi belajar berbahasa dengan fitur yang menyenagkan dan men
 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+- Disini saya mencoba belajar Bahasa Inggris menggunakan HelloTalk dan mencoba untuk berkomunikasi dengan orang luar
+![foto](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1ebea502-3451-4cc7-8b25-9f3bbe049aee)
+![foto](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/c39ab484-9847-4bac-9694-3c5730e5e0e3)
+![image](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9e18dec4-9ae6-4715-8386-f8bfcfefc832)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Disini saya sudah lumayan banyak mencari informasi dan eksplorasi tentang pekerjaan IT, tentunya lowongan pekerjaan IT banyak tersebar di internet dan ini adalah contoh pekerjaan-pekerjaan yang sudah saya Eksplore di internet

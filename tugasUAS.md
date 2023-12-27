@@ -644,20 +644,53 @@ MQTT, yang merupakan singkatan dari Message Queuing Telemetry Transport, adalah 
 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+File CSV (Comma-Separated Values) adalah format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
+![Screenshot (124)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d25f19d5-98a9-4222-a6c1-d7cb268c1a12)
+-ini adalah saat memasukkan file CSV menggunakan Google COlab
+![Screenshot (123)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1f16d585-6d86-4a7a-9f51-54427d19e062)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+Jurnal dalam Keinformatikaan:
+Jurnal dalam dunia keinformatikaan adalah publikasi berkala yang berfokus pada penelitian, pengembangan, dan inovasi dalam bidang teknologi informasi dan komputer.
+Fungsi dariJurnal keinformatikaan menyediakan platform untuk berbagi hasil penelitian, temuan terbaru, dan kontribusi ilmiah dalam subdisiplin seperti kecerdasan buatan, pemrosesan data, keamanan informasi, dan lain sebagainya.
 
+Konferensi dalam Keinformatikaan:
+Konferensi di bidang keinformatikaan adalah pertemuan yang dihadiri oleh para peneliti, praktisi, dan akademisi untuk mempresentasikan dan mendiskusikan temuan terbaru, ide, serta proyek-proyek yang berkaitan dengan teknologi informasi dan komputer.
+Fungsi dari Konferensi keinformatikaan memberikan kesempatan bagi komunitas untuk berinteraksi, berkolaborasi, dan memperbarui pengetahuan mereka mengenai perkembangan terbaru dalam industri tersebut.
+
+Artikel dalam Keinformatikaan:
+Artikel dalam konteks keinformatikaan dapat merujuk pada publikasi tertulis, baik dalam bentuk jurnal, konferensi, atau media online lainnya, yang membahas topik atau konsep spesifik dalam ilmu komputer atau teknologi informasi.
+Fungsi dari Artikel keinformatikaan berperan sebagai sarana untuk berbagi informasi, tutorial, analisis, atau pemikiran kritis mengenai perkembangan teknologi, metode pemrograman, atau isu-isu terkini dalam dunia komputer dan informasi.
+
+Grade Jurnal dalam Keinformatikaan:
+Grade jurnal atau peringkat jurnal dalam keinformatikaan mencerminkan kualitas dan reputasi suatu jurnal ilmiah dalam bidang teknologi informasi dan komputer.
+Fungsi dari Grade jurnal membantu peneliti dan profesional dalam keinformatikaan untuk menentukan kredibilitas dan dampak suatu jurnal. Hal ini memengaruhi keputusan untuk memilih jurnal tertentu sebagai tempat publikasi atau sebagai referensi dalam riset.
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+- IEEE tentang top bahasa pemograman tahun 2022
+![Screenshot (117)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/bf93b7ba-8f0b-4bc5-9ea1-cc740569442f)
+![Screenshot (118)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/6c2c9c67-9919-4ee6-a9c6-90b705d6d23c)
+- Arxiv 3D Multi-Modal Holistik Menuju AI yang Terwujud
+![Screenshot (119)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a8b8167d-a691-4f65-bb6f-6e7484c260ca)
+- Sciencedirect
+![Screenshot (120)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b8208991-134d-4d19-a6fe-ec6ef2578ada)
+- ACM
+![Screenshot (121)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8c5e8eb7-9ef3-49cc-b213-4d72b8966847)
+- DBLP
+![Screenshot (122)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/93e80f3c-4c1e-4fc6-8eb2-2971762dad3b)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+![Screenshot (114)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3905a352-62de-422f-a58e-98d9d414e9d6)
+![Screenshot (115)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/cb511a83-7c25-4784-ae02-64aead7876ce)
+![Screenshot (116)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ecfb9633-7267-43b3-a6a8-b001fc94c185)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Profesi yang saya minati di bidang Informatika yaitu :
 - Data Analyst
 - CyberSecurity Engineer
-- Database Specialist
+- Game Developer
+- Blockchain Developer
 - UI UX Designer specialist
 - Business Analyst
 

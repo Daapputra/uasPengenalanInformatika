@@ -158,7 +158,7 @@ contoh penggunaan Linux terminal di Google Colab
 
 ```mermaid
 flowchart TD
-    A[Mobile : Godot Engine] <-->   B[Game Server : JavaScript] 
+    A[Mobile : Godot Engine] <-->   B[Bahasa Pemograman : GDScript] 
     B <--> C[Database : MySQL]
 
 ```

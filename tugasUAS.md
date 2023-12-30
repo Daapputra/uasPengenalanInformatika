@@ -613,6 +613,45 @@ Membuat web service melibatkan penggunaan berbagai bahasa pemrograman dan kerang
 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+Penggunaan Developer Tools pada web browser seperti Firefox atau Chrome sangat berguna untuk pengembangan web dan analisis halaman web. Developer Tools menyediakan berbagai fitur yang membantu pengembang untuk memeriksa dan memahami struktur, perilaku, serta performa halaman web. Berikut adalah langkah-langkah umum untuk menggunakan Developer Tools di Firefox dan Chrome:
+
+# Firefox:
+- Buka Developer Tools:
+Klik kanan di mana saja pada halaman web dan pilih "Inspect Element" atau tekan Ctrl+Shift+I (Windows/Linux) atau Cmd+Option+I (Mac).
+Anda juga dapat membuka Developer Tools melalui menu Firefox (tiga garis horizontal di sudut kanan atas) > "Web Developer" > "Inspector".
+- Tab Utama:
+- Inspector: Memungkinkan Anda memeriksa dan mengedit elemen HTML, CSS, dan layout halaman.
+- Console: Tempat untuk menjalankan perintah JavaScript dan melihat pesan kesalahan.
+- Debugger: Memungkinkan debugging JavaScript dengan menetapkan breakpoint dan melihat variabel.
+- Network: Menampilkan informasi tentang permintaan dan respons HTTP.
+- Performance: Memberikan wawasan tentang performa halaman web.
+- Elemen dan Styles:
+Di tab "Inspector", Anda dapat mengklik elemen di halaman untuk melihat dan mengedit kode HTML dan CSS.
+Di tab "Styles", Anda dapat menguji perubahan langsung pada gaya CSS.
+- Console:
+Anda dapat menjalankan perintah JavaScript langsung di Console.
+Menampilkan pesan kesalahan dan output dari perintah JavaScript.
+- Network:
+Melacak permintaan dan respons HTTP, serta mengukur waktu yang dibutuhkan untuk memuat sumber daya.
+# Chrome:
+- Buka Developer Tools:
+Klik kanan di halaman web dan pilih "Inspect" atau tekan Ctrl+Shift+I (Windows/Linux) atau Cmd+Option+I (Mac).
+Anda juga dapat membuka Developer Tools melalui menu Chrome (tiga titik vertikal di sudut kanan atas) > "More Tools" > "Developer Tools".
+- Tab Utama:
+- Elements: Mirip dengan tab "Inspector" di Firefox, memungkinkan Anda memeriksa dan mengedit elemen HTML dan CSS.
+- Console: Mirip dengan tab "Console" di Firefox, tempat untuk menjalankan perintah JavaScript.
+- Sources: Menyediakan debugger JavaScript dan tampilan kode sumber.
+- Network: Mirip dengan tab "Network" di Firefox, menampilkan informasi tentang permintaan dan respons HTTP.
+- Performance: Mirip dengan tab "Performance" di Firefox, memberikan wawasan tentang performa halaman web.
+- Elemen dan Styles: Di tab "Elements", Anda dapat mengklik elemen untuk melihat dan mengedit HTML dan CSS.
+Di tab "Styles", Anda dapat menguji perubahan langsung pada gaya CSS.
+- Console: Menjalankan perintah JavaScript dan menampilkan pesan kesalahan.
+- Network: Menyediakan informasi tentang semua permintaan dan respons HTTP saat memuat halaman.
+
+![Screenshot (152)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3c1e56fd-ea44-475c-9770-f42d1b2d6adc)
+![Screenshot (153)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/af79ccad-c360-47b0-9249-c2ba02042ba9)
+![Screenshot (154)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5416055d-2060-4f34-b0d7-54d71fa9d953)
+![Screenshot (155)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/dcc015a0-8a3f-4915-9d0e-64a5ef4f9bbf)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -727,11 +766,60 @@ Microsoft Azure IoT Hub
 ![WhatsApp Image 2023-12-30 at 15 51 57_89388c6c](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d24e7595-5e63-41e1-8811-162e48c9c2d4)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+Bahasa pemrograman Logo adalah bahasa pemrograman yang diciptakan pada tahun 1967 oleh Seymour Papert dan tim di Laboratorium Kecerdasan Buatan Massachusetts Institute of Technology (MIT). Logo dirancang untuk digunakan sebagai alat pendidikan, khususnya untuk mengajarkan konsep-konsep pemrograman kepada anak-anak.
+
+Ciri-ciri utama bahasa pemrograman Logo meliputi:
+
+1. **Sederhana dan Intuitif:**
+   - Logo didesain agar mudah dipahami, bahkan oleh anak-anak. Struktur bahasanya sederhana dan intuitif.
+
+2. **Turtle Graphics:**
+   - Salah satu fitur utama Logo adalah "turtle graphics," di mana pemrogram dapat mengendalikan gambar sederhana yang disebut "turtle" untuk menggambar di layar. Perintah-perintah seperti `forward`, `backward`, `right`, dan `left` digunakan untuk menggerakkan turtle.
+
+3. **Interaktif:**
+   - Logo bersifat interaktif, memungkinkan pengguna untuk berinteraksi langsung dengan perintah-perintah dan melihat hasilnya secara langsung di layar.
+
+4. **Prosedur dan Fungsi:**
+   - Logo mendukung konsep prosedur dan fungsi, memungkinkan pemrogram untuk membuat dan menggunakan blok-blok kode yang dapat dipanggil.
+
+5. **Pendidikan dan Pembelajaran:**
+   - Tujuan utama Logo adalah menjadi alat pendidikan yang efektif. Dengan menggunakan turtle graphics, anak-anak dapat belajar konsep-konsep pemrograman sambil bersenang-senang.
+
+6. **Konsep Rekursi:**
+   - Logo memperkenalkan konsep rekursi dengan fitur pemanggilan diri sendiri, yang dapat digunakan untuk membuat struktur repetitif dan pola-pola kompleks.
+
+7. **Portabilitas:**
+   - Logo telah diimplementasikan dalam berbagai versi untuk berbagai platform dan sistem operasi.
+
+8. **Open Source:**
+   - Beberapa implementasi Logo bersifat open source, memungkinkan pengembang untuk mengakses dan memodifikasi sumber kode sesuai kebutuhan.
+
+Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-konsep dalam Logo, seperti rekursi dan kontrol alur, memiliki nilai yang luas dan dapat membantu pemula memahami dasar-dasar pemrograman. Implementasi Logo yang populer termasuk "UCBLogo" dan "MSWLogo." Meskipun tidak sepopuler beberapa bahasa pemrograman lainnya, Logo tetap relevan sebagai alat pembelajaran pemrograman dasar.
+
+![Screenshot (156)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a2b9f461-3355-47b1-8629-1a9e67da1625)
+![Screenshot (158)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5f4534e1-dfa4-4127-af61-b7eb00e58611)
+![Screenshot (157)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9ed26597-ad2f-4c35-a9c9-fdfea058b28d)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+Google Colab menyediakan lingkungan pembelajaran mesin yang kuat dan dapat diakses secara gratis melalui browser. Kita dapat menggunakan Google Colab untuk memproses konten multimedia seperti gambar (image) dan audio. 
+- Ini adalah pemrosesan konten Image menggunakan Google Colab
+![Screenshot (159)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d81a2b98-bbee-4d19-a4d2-74861febd1b1)
+![Screenshot (160)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/53dc924f-fc55-40cc-8f7d-13e928984a7d)
+
+- Ini adalah pemrosesan konten Audio menggunakan Google Colab
+![Screenshot (161)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/83c0304c-c1e5-493f-a758-95e8c0285c2c)
+![Screenshot (162)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/256fc7e3-7165-4c30-8be9-99064f639dc0)
+![Screenshot (163)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/47d331dc-6366-4310-be7a-367a374fb771)
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+- Disini saya mencoba machine learning dengan Google Colab berbasis Tensorflow
+![Screenshot (164)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b1d30c23-ca38-43cf-9e09-59ffaf594774)
 
+![Screenshot (165)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1e9cb865-5fe7-4ac4-bf10-cffc6b6796ae)
+
+![Screenshot (166)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/7c9352a2-d636-44d9-ae31-6f544f4ce4b5)
+Langkah-langkah di atas menggunakan bahasa pemrograman Python. Python adalah salah satu bahasa pemrograman yang paling umum digunakan di dunia machine learning dan data science karena mudah dipelajari, memiliki sintaksis yang bersih, dan memiliki berbagai library dan framework yang kuat, termasuk TensorFlow.
+Dengan menggunakan Google Colab, kita dapat menulis dan mengeksekusi kode Python di sel-sel notebook secara interaktif. TensorFlow, yang juga digunakan dalam contoh-contoh tersebut, adalah sebuah framework machine learning yang sangat populer yang mendukung pembuatan dan pelatihan model machine learning.
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 "Text to image" adalah istilah yang digunakan untuk merujuk kepada proses mengonversi atau menghasilkan gambar dari teks atau deskripsi tertentu. Ini dapat melibatkan teknologi atau algoritma yang mampu menginterpretasikan teks dan menghasilkan representasi visual yang sesuai.
 Beberapa aplikasi atau metode "text to image" melibatkan kecerdasan buatan (AI), seperti model pembelajaran mesin yang dilatih untuk memahami teks dan menghasilkan gambar yang sesuai. 
@@ -743,10 +831,36 @@ Beberapa aplikasi atau metode "text to image" melibatkan kecerdasan buatan (AI),
 ![Screenshot (143)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d806eb09-4de7-47de-8416-b61a9059b077)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+- Seperti yang sudah di jelaskan di atas yaitu pada AI Discriminative ( Image Classification ) disini saya menggunakan Model machine learning Image Classification dengan Tensorflow
+![Screenshot (164)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/f6dee9b6-685b-4bdf-8b52-228b0abb0b31)
+
+![Screenshot (165)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d20c3199-0b0b-4267-9a72-cddee3be47eb)
+
+![Screenshot (166)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/fed2cef7-cfd3-463a-880c-eedaef377515)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+# Matplotlib
+![Screenshot (169)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/fa7e027e-23ca-4c5a-8615-6c06903f4973)
+![Screenshot (171)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0375239f-d643-409b-8942-87b797486f02)
+
+- Disini menggunakan Google Colab dengan library Matplotlib
+![Screenshot (175)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/39d286e9-ca5d-4181-8373-aeb186a347e5)
+![Screenshot (176)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b740a854-c828-4f1e-91eb-28a5913bbacd)
+
+# Seaborn
+![Screenshot (172)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d15876f6-f0fd-4fff-ab09-757f1bcddfb4)
+![Screenshot (173)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e7999d5b-67b6-4416-bb45-9e5d565829f7)
+![Screenshot (174)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e865213d-0370-475e-8228-d1d208c17937)
+
+- Disini menggunakan Google Colab dengan library Seaborn
+![Screenshot (177)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/c5336788-f0be-464f-a331-17701859aef4)
+![Screenshot (178)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/f31995ee-f559-4bd9-b4c8-1d7f7a27bb01)
+![Screenshot (179)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1c044f67-76ce-475f-bb76-154dd5a45c3f)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+![Screenshot (167)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/bb30aa50-7d39-4931-a073-1a89ab63866d)
+![Screenshot (168)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d934bdbc-be3a-4d5b-8f21-8cbd24e66f5f)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Hugging Face adalah platform dan komunitas yang fokus pada pemrosesan bahasa alami (NLP) dan pemelajaran mendalam (deep learning). Hugging Face menyediakan sumber daya dan alat untuk mempermudah pengembangan, pengujian, dan implementasi model NLP. 
@@ -767,18 +881,12 @@ Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan da
 - Mencoba notebook dan menggunakan pyhton dasar
 ![Screenshot (32)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/7dca802a-0378-4d18-8de6-b8640014a310)
 
- 
-
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+ ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 MQTT, yang merupakan singkatan dari Message Queuing Telemetry Transport, adalah protokol komunikasi ringan yang dirancang khusus untuk digunakan dalam konteks Internet of Things (IoT). Protokol ini sangat efisien dalam mentransfer data antar perangkat yang terhubung ke jaringan, termasuk perangkat IoT. Perangkat IoT dapat berperan sebagai pengirim atau penerima pesan. Mereka dapat mempublikasikan pesan ke topik tertentu atau berlangganan ke topik untuk menerima pesan. Protokol ini dirancang untuk efisiensi, dan keamanan dalam komunikasi antarperangkat IoT. Jadi, secara umum, MyMQTT memfasilitasi pertukaran data yang efisien antarperangkat IoT melalui model publish-subscribe, di mana perangkat dapat mengirim dan menerima pesan pada topik-topik tertentu.
 
 -![WhatsApp Image 2023-12-19 at 20 25 03_eca0f9c2](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/4333c748-9e41-4741-810e-d6f5b37ff944)
 -![WhatsApp Image 2023-12-19 at 20 25 05_38e3560f](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2d07b5de-ed67-402c-abec-4433538d6bc8)
 -![WhatsApp Image 2023-12-19 at 20 25 05_bec05809](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/87d6127b-f41c-4008-9269-54ef9f053e3e)
-
-
-
-
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 File CSV (Comma-Separated Values) adalah format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
@@ -787,6 +895,16 @@ File CSV (Comma-Separated Values) adalah format penyimpanan data yang digunakan 
 ![Screenshot (123)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/1f16d585-6d86-4a7a-9f51-54427d19e062)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+ORC dalam big data adalah Optimized Row Columnar File ORC (Optimized Row Columnar) dalam konteks Big Data adalah format penyimpanan kolom yang dioptimalkan untuk kinerja query dan analisis data. Format ini dikembangkan terutama untuk digunakan dengan Apache Hive, sebuah platform query data yang dibangun di atas Apache Hadoop.
+Dalam file ORC, data disusun dalam bentuk kolom (columnar storage) alih-alih baris (row-based storage) seperti format file tradisional. Ini memungkinkan keuntungan performa tertentu, terutama ketika hanya sebagian kecil dari kolom yang dibaca atau diakses dalam query.
+
+- Disini saya menggunakan PySpark untuk membuat file ORC dari data DataFrame.
+  1. Instalasi dan Impor PySpark
+  2. Inisialisasi SparkSession
+  3. Persiapkan Data
+  4. Simpan DataFrame ke File ORC
+![Screenshot (180)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9060b2df-4605-46f4-8f28-2d06d2fee584)
+![Screenshot (181)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/82fd0291-3825-4c9a-81ef-541f8956a2e4)
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 Jurnal dalam Keinformatikaan:

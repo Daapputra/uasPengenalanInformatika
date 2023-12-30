@@ -696,8 +696,10 @@ Microsoft Azure IoT Hub
 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-Blog pribadi dengan Content Management System dengan situs web WordPress
-![Screenshot (145)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/75cedfb2-87d7-47fc-aa56-dcbba2dd1e04)
+- Blog pribadi dengan Content Management System dengan situs web WordPress
+![Screenshot (151)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2ff496a8-7ace-42c9-84c3-d1a21e8a4e57)
+![Screenshot (152)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8f840261-5235-417e-8764-e49a0da0093e)
+
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 # gambar dan icon:

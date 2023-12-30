@@ -372,6 +372,7 @@ Saya di sini membuat Game dengan menggunakan game Engine Godot, Godot ini merupa
 ![Screenshot (59)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/39eede4c-7207-4395-b29e-8bcc1eab84c7)
 
 - Ini adalah penjelasan lebih lengkapnya lagi sudah saya buatkan video Demonstrasi tentang game yang saya buat di Youtube, dan ini adalah link nya https://youtu.be/ZsVw8EXnSrg?si=DxxWdzxHqPuDDUI8
+- Lalu ini adalah link github tentang game yang saya buat ini yaitu tugas UTS https://github.com/Daapputra/ProjekUTS
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -698,6 +699,7 @@ Microsoft Azure IoT Hub
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 - Blog pribadi dengan Content Management System dengan situs web WordPress
 ![Screenshot (151)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2ff496a8-7ace-42c9-84c3-d1a21e8a4e57)
+
 ![Screenshot (152)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8f840261-5235-417e-8764-e49a0da0093e)
 
 

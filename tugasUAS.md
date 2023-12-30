@@ -647,8 +647,6 @@ Anda juga dapat membuka Developer Tools melalui menu Chrome (tiga titik vertikal
 Di tab "Styles", Anda dapat menguji perubahan langsung pada gaya CSS.
 - Console: Menjalankan perintah JavaScript dan menampilkan pesan kesalahan.
 - Network: Menyediakan informasi tentang semua permintaan dan respons HTTP saat memuat halaman.
-
-![Screenshot (152)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/3c1e56fd-ea44-475c-9770-f42d1b2d6adc)
 ![Screenshot (153)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/af79ccad-c360-47b0-9249-c2ba02042ba9)
 ![Screenshot (154)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5416055d-2060-4f34-b0d7-54d71fa9d953)
 ![Screenshot (155)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/dcc015a0-8a3f-4915-9d0e-64a5ef4f9bbf)

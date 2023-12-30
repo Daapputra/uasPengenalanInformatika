@@ -560,11 +560,14 @@ traceroute namadomain.com
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-- Disini saya mencoba membuat Halaman Web menggunakan HTML, dan ini adalah kodingannya
-![Screenshot (109)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5cdfb4bd-b8b8-43b6-a342-36deb14f00e5)
+- Disini saya mencoba membuat Halaman Web menggunakan HTML,CSS, dan JS, lalu ini adalah kodingannya
+![Screenshot (125)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/aa78582f-77d6-4c99-8378-22735adfe1d0)
+![Screenshot (126)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d8c8936c-a643-4c17-84b4-8b5d979f4ff3)
+![Screenshot (127)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5a356376-9d34-411f-b6c7-078f44ccf9cb)
 
 - Kemudian disini adalah User Interface nya nanti ketika sudah bisa digunakan oleh user
-![Screenshot (110)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2ae4f929-da3c-4401-9dad-e2c4a93902d4)
+![Screenshot (128)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/979d901c-389a-462b-950d-d4d3894d0364)
+
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -572,10 +575,21 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+Optimasi Mesin Pencari (SEO) adalah serangkaian teknik yang dirancang untuk meningkatkan visibilitas suatu halaman web di mesin pencari seperti Google, Bing, dan Yahoo. 
+- Disini saya mencoba menerapkan SEO ini pada halaman web yang telah saya buat sebelumnya
+![Screenshot (129)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/eedc9591-e153-4720-a95a-de573ccd0a96)
+- Lalu ini adalah hasil dari penerapan SEO di web yang saya buat sebelumnya
+![Screenshot (131)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/01f2dcaa-7fe5-4c1b-a99a-679285607a1f)
+- dan ini ketika warnanya di ubah
+![Screenshot (133)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/ed7a6e63-6daa-4d9e-85d4-63a67739a0b1)
 
+  
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+File JSON (JavaScript Object Notation) adalah format penyimpanan dan pertukaran data yang ringan, mudah dibaca, dan mudah ditulis oleh manusia. Format ini juga mudah dimengerti oleh mesin. File JSON digunakan untuk menyimpan dan mentransmisikan data terstruktur antar program atau aplikasi.
+- ini adalah penggunaan file JSON untuk launching Website nya
+![Screenshot (135)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b63a3899-484c-4b7a-8cce-a20b0d368c9c)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 

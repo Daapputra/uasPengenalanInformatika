@@ -604,6 +604,12 @@ Membuat web service melibatkan penggunaan berbagai bahasa pemrograman dan kerang
 ![Screenshot (139)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2a9109ee-7b89-4ae7-a25f-062d9ccdfb73)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+- Eksplorasi Web API dengan Postman API
+![Screenshot (147)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/0530c008-0784-4e69-9799-82fd3b667aba)
+![Screenshot (148)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/151e70d8-369a-4c90-8651-28ebee183a8f)
+![Screenshot (149)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/5b84eb43-caf6-4ec0-a374-3140fec6c1fa)
+![Screenshot (150)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/b2b2764e-be27-426f-b686-981c1554bb31)
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
@@ -612,7 +618,86 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
+Layanan cloud computing adalah sekumpulan layanan dan sumber daya komputasi yang disediakan melalui internet oleh penyedia layanan cloud. Ini memungkinkan pengguna untuk mengakses dan menggunakan sumber daya komputasi seperti server, penyimpanan data, database, jaringan, perangkat lunak, dan layanan lainnya tanpa harus memiliki atau mengelola infrastruktur fisik secara lokal. Layanan cloud biasanya disajikan dalam tiga kategori utama: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), dan Software as a Service (SaaS). 
+terdapat juga berbagai layanan cloud tambahan seperti Database as a Service (DBaaS), Function as a Service (FaaS), dan lainnya. 
+Ada berbagai jenis layanan cloud service yang ditawarkan oleh penyedia layanan cloud. Berikut adalah beberapa kategori utama dari layanan cloud:
+
+- Infrastructure as a Service (IaaS):
+Deskripsi: Menyediakan akses ke sumber daya infrastruktur seperti server virtual, penyimpanan data, dan jaringan.
+Contoh Layanan:
+Amazon EC2 (Elastic Compute Cloud)
+Microsoft Azure Virtual Machines
+Google Compute Engine
+
+- Platform as a Service (PaaS):
+Deskripsi: Memberikan platform pengembangan lengkap yang mencakup perangkat keras, perangkat lunak, dan alat pengembangan.
+Contoh Layanan:
+Heroku
+Google App Engine
+Microsoft Azure App Service
+
+- Software as a Service (SaaS):
+Deskripsi: Menyediakan akses ke aplikasi perangkat lunak melalui internet, tanpa perlu menginstal atau menjalankan aplikasi secara lokal.
+Contoh Layanan:
+Microsoft 365 (Office 365)
+Salesforce
+Google Workspace
+
+- Database as a Service (DBaaS):
+Deskripsi: Memberikan akses ke layanan basis data melalui cloud, termasuk manajemen dan skalabilitas basis data.
+Contoh Layanan:
+Amazon RDS (Relational Database Service)
+Microsoft Azure SQL Database
+Google Cloud SQL
+
+- Function as a Service (FaaS):
+Deskripsi: Memungkinkan pengembang untuk menjalankan potongan kecil kode atau fungsi tanpa harus mengelola infrastruktur.
+Contoh Layanan:
+AWS Lambda
+Azure Functions
+Google Cloud Functions
+
+= Storage as a Service:
+Deskripsi: Menyediakan penyimpanan data melalui cloud, sering kali dengan opsi penyimpanan berskala besar dan penyimpanan berbasis objek.
+Contoh Layanan:
+Amazon S3 (Simple Storage Service)
+Google Cloud Storage
+Microsoft Azure Blob Storage
+
+- Networking as a Service:
+Deskripsi: Menyediakan layanan jaringan dan konektivitas melalui cloud.
+Contoh Layanan:
+Amazon VPC (Virtual Private Cloud)
+Google Cloud Virtual Private Cloud (VPC)
+Microsoft Azure Virtual Network
+
+- Machine Learning as a Service (MLaaS):
+Deskripsi: Menyediakan akses ke algoritma dan model kecerdasan buatan melalui cloud.
+Contoh Layanan:
+Amazon SageMaker
+Google AI Platform
+Azure Machine Learning
+
+- Security as a Service (SECaaS):
+Deskripsi: Layanan keamanan berbasis cloud, termasuk deteksi ancaman, enkripsi, dan pemantauan keamanan.
+Contoh Layanan:
+Cloudflare
+AWS Identity and Access Management (IAM)
+Microsoft Azure Security Center
+
+- IoT (Internet of Things) Services:
+Deskripsi: Menyediakan infrastruktur dan alat untuk mengelola perangkat IoT dan data yang dihasilkan.
+Contoh Layanan:
+AWS IoT
+Google Cloud IoT
+Microsoft Azure IoT Hub
+- Disini saya menggunakan Microsoft Azure
+![Screenshot (146)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/a15a386e-1b9d-4ca0-a4a4-ed59a1994687)
+
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+Blog pribadi dengan Content Management System dengan situs web WordPress
+![Screenshot (145)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/75cedfb2-87d7-47fc-aa56-dcbba2dd1e04)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 # gambar dan icon:

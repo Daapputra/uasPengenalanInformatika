@@ -593,8 +593,9 @@ File JSON (JavaScript Object Notation) adalah format penyimpanan dan pertukaran 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 GitHub Pages menyediakan layanan hosting web gratis. GitHub Pages memungkinkan untuk meng-host situs web statis secara gratis, termasuk halaman HTML, CSS, dan JavaScript. Ini dapat digunakan untuk membuat portofolio pribadi, proyek open source, dokumentasi, atau situs web statis sederhana lainnya.
+- ini adalah proses percobaan web hosting di github
+![Screenshot (136)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e4b6ce13-424c-4a1d-a995-29eabf03b69a)
 
-- 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 

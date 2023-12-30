@@ -595,9 +595,13 @@ File JSON (JavaScript Object Notation) adalah format penyimpanan dan pertukaran 
 GitHub Pages menyediakan layanan hosting web gratis. GitHub Pages memungkinkan untuk meng-host situs web statis secara gratis, termasuk halaman HTML, CSS, dan JavaScript. Ini dapat digunakan untuk membuat portofolio pribadi, proyek open source, dokumentasi, atau situs web statis sederhana lainnya.
 - ini adalah proses percobaan web hosting di github
 ![Screenshot (136)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/e4b6ce13-424c-4a1d-a995-29eabf03b69a)
+- Kemudian ini adalah hasil dari tampilan profile saya setelah di lakukannya hosting tadi
+![Screenshot (138)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/529d0ba0-d4b3-44fb-8d87-b71dbc72fd23)
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+Membuat web service melibatkan penggunaan berbagai bahasa pemrograman dan kerangka kerja (framework) tergantung pada kebutuhan dan preferensi Kita.
+![Screenshot (139)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2a9109ee-7b89-4ae7-a25f-062d9ccdfb73)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
@@ -611,8 +615,27 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+# gambar dan icon:
+  - Pinterest
+  - shutterstock
+  - freepik
+  - unsplash
+  - pexels
+# video:
+  - youtube
+  - Netflix
+  - Amazon Prime Video
+  - envanto elements
+  - netflix
+# Audio:
+  - spotify
+  - Apple Music
+  - Google Play Music 
+  - SoundCloud
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+![WhatsApp Image 2023-12-30 at 15 51 29_db931790](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/2874f769-74ee-42c6-93f0-922eacde9c48)
+
+![WhatsApp Image 2023-12-30 at 15 51 57_89388c6c](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d24e7595-5e63-41e1-8811-162e48c9c2d4)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -621,6 +644,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+"Text to image" adalah istilah yang digunakan untuk merujuk kepada proses mengonversi atau menghasilkan gambar dari teks atau deskripsi tertentu. Ini dapat melibatkan teknologi atau algoritma yang mampu menginterpretasikan teks dan menghasilkan representasi visual yang sesuai.
+Beberapa aplikasi atau metode "text to image" melibatkan kecerdasan buatan (AI), seperti model pembelajaran mesin yang dilatih untuk memahami teks dan menghasilkan gambar yang sesuai. 
+- Disini saya menggunakan Bing untuk membuat gambar dari text atau Text to Image
+![Screenshot (144)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/9b5c259d-a0d8-47ea-a6f9-f71d9b8bb115)
+![Screenshot (140)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d62386bf-deea-4bd5-9728-aad4ef26c7f2)
+![Screenshot (141)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/bfa1694c-3127-4c6a-bb54-8e244885e506)
+![image](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/8efdcc7a-848f-487a-b287-437053a8b4cb)
+![Screenshot (143)](https://github.com/Daapputra/uasPengenalanInformatika/assets/148644036/d806eb09-4de7-47de-8416-b61a9059b077)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
